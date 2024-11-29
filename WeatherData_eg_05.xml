@@ -1,0 +1,452 @@
+<WeatherData>
+    <WeatherRecord_eg05>
+      <RecordId>1</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-10</Date>
+      <TemperatureCelsius>15.0</TemperatureCelsius>
+      <HumidityPercent>65</HumidityPercent>
+      <PrecipitationMm>2.5</PrecipitationMm>
+      <WindSpeedKmh>20.0</WindSpeedKmh>
+      <WeatherCondition>CLOUDY</WeatherCondition>
+      <Forecast>LIGHT RAIN EXPECTED IN THE AFTERNOON</Forecast>
+      <Updated>2023-11-10</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>2</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-10</Date>
+      <TemperatureCelsius>18.0</TemperatureCelsius>
+      <HumidityPercent>72</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>15.0</WindSpeedKmh>
+      <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+      <Forecast>CLEAR SKIES EXPECTED THROUGHOUT THE DAY</Forecast>
+      <Updated>2023-11-10</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>3</RecordId>
+      <City>BARCELONA</City>
+      <Country>SPAIN</Country>
+      <Latitude>41.3784</Latitude>
+      <Longitude>2.1925</Longitude>
+      <Date>2023-11-10</Date>
+      <TemperatureCelsius>17.0</TemperatureCelsius>
+      <HumidityPercent>78</HumidityPercent>
+      <PrecipitationMm>0.1</PrecipitationMm>
+      <WindSpeedKmh>10.0</WindSpeedKmh>
+      <WeatherCondition>LIGHT RAIN</WeatherCondition>
+      <Forecast>SCATTERED SHOWERS THROUGHOUT THE DAY</Forecast>
+      <Updated>2023-11-10</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>4</RecordId>
+      <City>ALICANTE</City>
+      <Country>SPAIN</Country>
+      <Latitude>38.3452</Latitude>
+      <Longitude>-0.481</Longitude>
+      <Date>2023-11-10</Date>
+      <TemperatureCelsius>21.0</TemperatureCelsius>
+      <HumidityPercent>58</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>25.0</WindSpeedKmh>
+      <WeatherCondition>SUNNY</WeatherCondition>
+      <Forecast>CLEAR SKIES WITH NO PRECIPITATION</Forecast>
+      <Updated>2023-11-10</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>5</RecordId>
+      <City>CASTELLON DE LA PLANA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.986</Latitude>
+      <Longitude>-0.0376</Longitude>
+      <Date>2023-11-10</Date>
+      <TemperatureCelsius>14.0</TemperatureCelsius>
+      <HumidityPercent>85</HumidityPercent>
+      <PrecipitationMm>5.2</PrecipitationMm>
+      <WindSpeedKmh>18.0</WindSpeedKmh>
+      <WeatherCondition>HEAVY RAIN</WeatherCondition>
+      <Forecast>RAIN EXPECTED TO CONTINUE UNTIL EVENING</Forecast>
+      <Updated>2023-11-10</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>6</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-11</Date>
+      <TemperatureCelsius>13.0</TemperatureCelsius>
+      <HumidityPercent>68</HumidityPercent>
+      <PrecipitationMm>1.0</PrecipitationMm>
+      <WindSpeedKmh>18.0</WindSpeedKmh>
+      <WeatherCondition>CLOUDY</WeatherCondition>
+      <Forecast>LIGHT SHOWERS IN THE EVENING</Forecast>
+      <Updated>2023-11-11</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>7</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-12</Date>
+      <TemperatureCelsius>16.0</TemperatureCelsius>
+      <HumidityPercent>63</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>12.0</WindSpeedKmh>
+      <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+      <Forecast>MILD TEMPERATURES THROUGHOUT THE DAY</Forecast>
+      <Updated>2023-11-12</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>8</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-13</Date>
+      <TemperatureCelsius>12.0</TemperatureCelsius>
+      <HumidityPercent>70</HumidityPercent>
+      <PrecipitationMm>3.0</PrecipitationMm>
+      <WindSpeedKmh>22.0</WindSpeedKmh>
+      <WeatherCondition>RAIN</WeatherCondition>
+      <Forecast>STEADY RAIN EXPECTED ALL DAY</Forecast>
+      <Updated>2023-11-13</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>9</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-14</Date>
+      <TemperatureCelsius>10.0</TemperatureCelsius>
+      <HumidityPercent>75</HumidityPercent>
+      <PrecipitationMm>0.5</PrecipitationMm>
+      <WindSpeedKmh>16.0</WindSpeedKmh>
+      <WeatherCondition>OVERCAST</WeatherCondition>
+      <Forecast>COOLER TEMPERATURES EXPECTED</Forecast>
+      <Updated>2023-11-14</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>10</RecordId>
+      <City>MADRID</City>
+      <Country>SPAIN</Country>
+      <Latitude>40.4168</Latitude>
+      <Longitude>-3.7038</Longitude>
+      <Date>2023-11-15</Date>
+      <TemperatureCelsius>14.0</TemperatureCelsius>
+      <HumidityPercent>60</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>20.0</WindSpeedKmh>
+      <WeatherCondition>SUNNY</WeatherCondition>
+      <Forecast>PLEASANT WEATHER THROUGHOUT THE DAY</Forecast>
+      <Updated>2023-11-15</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>11</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-11</Date>
+      <TemperatureCelsius>19.0</TemperatureCelsius>
+      <HumidityPercent>70</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>10.0</WindSpeedKmh>
+      <WeatherCondition>SUNNY</WeatherCondition>
+      <Forecast>WARM TEMPERATURES EXPECTED</Forecast>
+      <Updated>2023-11-11</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>12</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-12</Date>
+      <TemperatureCelsius>17.0</TemperatureCelsius>
+      <HumidityPercent>65</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>12.0</WindSpeedKmh>
+      <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+      <Forecast>COOL BREEZES THROUGHOUT THE DAY</Forecast>
+      <Updated>2023-11-12</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>13</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-13</Date>
+      <TemperatureCelsius>16.0</TemperatureCelsius>
+      <HumidityPercent>75</HumidityPercent>
+      <PrecipitationMm>0.3</PrecipitationMm>
+      <WindSpeedKmh>15.0</WindSpeedKmh>
+      <WeatherCondition>LIGHT RAIN</WeatherCondition>
+      <Forecast>RAIN IN THE EARLY MORNING</Forecast>
+      <Updated>2023-11-13</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>14</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-14</Date>
+      <TemperatureCelsius>18.0</TemperatureCelsius>
+      <HumidityPercent>60</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>8.0</WindSpeedKmh>
+      <WeatherCondition>SUNNY</WeatherCondition>
+      <Forecast>WARM AFTERNOON EXPECTED</Forecast>
+      <Updated>2023-11-14</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+      <RecordId>15</RecordId>
+      <City>VALENCIA</City>
+      <Country>SPAIN</Country>
+      <Latitude>39.4699</Latitude>
+      <Longitude>-0.3763</Longitude>
+      <Date>2023-11-15</Date>
+      <TemperatureCelsius>20.0</TemperatureCelsius>
+      <HumidityPercent>68</HumidityPercent>
+      <PrecipitationMm>0.0</PrecipitationMm>
+      <WindSpeedKmh>10.0</WindSpeedKmh>
+      <WeatherCondition>SUNNY</WeatherCondition>
+      <Forecast>HOT AND DRY CONDITIONS</Forecast>
+      <Updated>2023-11-15</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>16</RecordId>
+        <City>BARCELONA</City>
+        <Country>SPAIN</Country>
+        <Latitude>41.3784</Latitude>
+        <Longitude>2.1925</Longitude>
+        <Date>2023-11-11</Date>
+        <TemperatureCelsius>15.0</TemperatureCelsius>
+        <HumidityPercent>80</HumidityPercent>
+        <PrecipitationMm>2.0</PrecipitationMm>
+        <WindSpeedKmh>12.0</WindSpeedKmh>
+        <WeatherCondition>CLOUDY</WeatherCondition>
+        <Forecast>SHOWERS EXPECTED IN THE AFTERNOON</Forecast>
+        <Updated>2023-11-11</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>17</RecordId>
+        <City>BARCELONA</City>
+        <Country>SPAIN</Country>
+        <Latitude>41.3784</Latitude>
+        <Longitude>2.1925</Longitude>
+        <Date>2023-11-12</Date>
+        <TemperatureCelsius>14.0</TemperatureCelsius>
+        <HumidityPercent>85</HumidityPercent>
+        <PrecipitationMm>1.0</PrecipitationMm>
+        <WindSpeedKmh>10.0</WindSpeedKmh>
+        <WeatherCondition>LIGHT RAIN</WeatherCondition>
+        <Forecast>RAIN DURING THE NIGHT</Forecast>
+        <Updated>2023-11-12</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>18</RecordId>
+        <City>BARCELONA</City>
+        <Country>SPAIN</Country>
+        <Latitude>41.3784</Latitude>
+        <Longitude>2.1925</Longitude>
+        <Date>2023-11-13</Date>
+        <TemperatureCelsius>16.0</TemperatureCelsius>
+        <HumidityPercent>75</HumidityPercent>
+        <PrecipitationMm>0.5</PrecipitationMm>
+        <WindSpeedKmh>15.0</WindSpeedKmh>
+        <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+        <Forecast>COOL WINDS EXPECTED</Forecast>
+        <Updated>2023-11-13</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>19</RecordId>
+        <City>BARCELONA</City>
+        <Country>SPAIN</Country>
+        <Latitude>41.3784</Latitude>
+        <Longitude>2.1925</Longitude>
+        <Date>2023-11-14</Date>
+        <TemperatureCelsius>17.0</TemperatureCelsius>
+        <HumidityPercent>78</HumidityPercent>
+        <PrecipitationMm>0.3</PrecipitationMm>
+        <WindSpeedKmh>8.0</WindSpeedKmh>
+        <WeatherCondition>CLOUDY</WeatherCondition>
+        <Forecast>COOL DAY WITH SCATTERED CLOUDS</Forecast>
+        <Updated>2023-11-14</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>20</RecordId>
+        <City>BARCELONA</City>
+        <Country>SPAIN</Country>
+        <Latitude>41.3784</Latitude>
+        <Longitude>2.1925</Longitude>
+        <Date>2023-11-15</Date>
+        <TemperatureCelsius>18.0</TemperatureCelsius>
+        <HumidityPercent>70</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>10.0</WindSpeedKmh>
+        <WeatherCondition>SUNNY</WeatherCondition>
+        <Forecast>WARMER WEATHER EXPECTED</Forecast>
+        <Updated>2023-11-15</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>21</RecordId>
+        <City>ALICANTE</City>
+        <Country>SPAIN</Country>
+        <Latitude>38.3452</Latitude>
+        <Longitude>-0.481</Longitude>
+        <Date>2023-11-11</Date>
+        <TemperatureCelsius>22.0</TemperatureCelsius>
+        <HumidityPercent>55</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>18.0</WindSpeedKmh>
+        <WeatherCondition>SUNNY</WeatherCondition>
+        <Forecast>BRIGHT AND WARM DAY</Forecast>
+        <Updated>2023-11-11</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>22</RecordId>
+        <City>ALICANTE</City>
+        <Country>SPAIN</Country>
+        <Latitude>38.3452</Latitude>
+        <Longitude>-0.481</Longitude>
+        <Date>2023-11-12</Date>
+        <TemperatureCelsius>20.0</TemperatureCelsius>
+        <HumidityPercent>60</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>15.0</WindSpeedKmh>
+        <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+        <Forecast>NO RAIN EXPECTED</Forecast>
+        <Updated>2023-11-12</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>23</RecordId>
+        <City>ALICANTE</City>
+        <Country>SPAIN</Country>
+        <Latitude>38.3452</Latitude>
+        <Longitude>-0.481</Longitude>
+        <Date>2023-11-13</Date>
+        <TemperatureCelsius>19.0</TemperatureCelsius>
+        <HumidityPercent>65</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>12.0</WindSpeedKmh>
+        <WeatherCondition>CLEAR</WeatherCondition>
+        <Forecast>PLEASANT WEATHER THROUGHOUT THE DAY</Forecast>
+        <Updated>2023-11-13</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>24</RecordId>
+        <City>ALICANTE</City>
+        <Country>SPAIN</Country>
+        <Latitude>38.3452</Latitude>
+        <Longitude>-0.481</Longitude>
+        <Date>2023-11-14</Date>
+        <TemperatureCelsius>18.0</TemperatureCelsius>
+        <HumidityPercent>58</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>20.0</WindSpeedKmh>
+        <WeatherCondition>SUNNY</WeatherCondition>
+        <Forecast>NO CHANGES IN WEATHER PATTERN</Forecast>
+        <Updated>2023-11-14</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>25</RecordId>
+        <City>ALICANTE</City>
+        <Country>SPAIN</Country>
+        <Latitude>38.3452</Latitude>
+        <Longitude>-0.481</Longitude>
+        <Date>2023-11-15</Date>
+        <TemperatureCelsius>21.0</TemperatureCelsius>
+        <HumidityPercent>50</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>25.0</WindSpeedKmh>
+        <WeatherCondition>SUNNY</WeatherCondition>
+        <Forecast>WARMER DAY EXPECTED</Forecast>
+        <Updated>2023-11-15</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>26</RecordId>
+        <City>CASTELLON DE LA PLANA</City>
+        <Country>SPAIN</Country>
+        <Latitude>39.986</Latitude>
+        <Longitude>-0.0376</Longitude>
+        <Date>2023-11-11</Date>
+        <TemperatureCelsius>16.0</TemperatureCelsius>
+        <HumidityPercent>80</HumidityPercent>
+        <PrecipitationMm>3.0</PrecipitationMm>
+        <WindSpeedKmh>18.0</WindSpeedKmh>
+        <WeatherCondition>RAIN</WeatherCondition>
+        <Forecast>STEADY RAIN EXPECTED</Forecast>
+        <Updated>2023-11-11</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>27</RecordId>
+        <City>CASTELLON DE LA PLANA</City>
+        <Country>SPAIN</Country>
+        <Latitude>39.986</Latitude>
+        <Longitude>-0.0376</Longitude>
+        <Date>2023-11-12</Date>
+        <TemperatureCelsius>15.0</TemperatureCelsius>
+        <HumidityPercent>85</HumidityPercent>
+        <PrecipitationMm>2.5</PrecipitationMm>
+        <WindSpeedKmh>15.0</WindSpeedKmh>
+        <WeatherCondition>SHOWERS</WeatherCondition>
+        <Forecast>WET CONDITIONS THROUGHOUT THE DAY</Forecast>
+        <Updated>2023-11-12</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>28</RecordId>
+        <City>CASTELLON DE LA PLANA</City>
+        <Country>SPAIN</Country>
+        <Latitude>39.986</Latitude>
+        <Longitude>-0.0376</Longitude>
+        <Date>2023-11-13</Date>
+        <TemperatureCelsius>17.0</TemperatureCelsius>
+        <HumidityPercent>78</HumidityPercent>
+        <PrecipitationMm>1.0</PrecipitationMm>
+        <WindSpeedKmh>12.0</WindSpeedKmh>
+        <WeatherCondition>CLOUDY</WeatherCondition>
+        <Forecast>SHOWERS POSSIBLE IN EVENING</Forecast>
+        <Updated>2023-11-13</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>29</RecordId>
+        <City>CASTELLON DE LA PLANA</City>
+        <Country>SPAIN</Country>
+        <Latitude>39.986</Latitude>
+        <Longitude>-0.0376</Longitude>
+        <Date>2023-11-14</Date>
+        <TemperatureCelsius>18.0</TemperatureCelsius>
+        <HumidityPercent>72</HumidityPercent>
+        <PrecipitationMm>0.8</PrecipitationMm>
+        <WindSpeedKmh>10.0</WindSpeedKmh>
+        <WeatherCondition>PARTLY CLOUDY</WeatherCondition>
+        <Forecast>WARMER WEATHER EXPECTED</Forecast>
+        <Updated>2023-11-14</Updated>
+    </WeatherRecord_eg05>
+    <WeatherRecord_eg05>
+        <RecordId>30</RecordId>
+        <City>CASTELLON DE LA PLANA</City>
+        <Country>SPAIN</Country>
+        <Latitude>39.986</Latitude>
+        <Longitude>-0.0376</Longitude>
+        <Date>2023-11-15</Date>
+        <TemperatureCelsius>20.0</TemperatureCelsius>
+        <HumidityPercent>65</HumidityPercent>
+        <PrecipitationMm>0.0</PrecipitationMm>
+        <WindSpeedKmh>10.0</WindSpeedKmh>
+        <WeatherCondition>SUNNY</WeatherCondition>
+        <Forecast>CLEAR AND WARM DAY</Forecast>
+        <Updated>2023-11-15</Updated>
+    </WeatherRecord_eg05>
+</WeatherData>
